@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/PetsEden/pets-egg.git"
   },
   "author": "marekchen<c491843272@gmail.com>",
   "license": "MIT"
