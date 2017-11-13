@@ -2,6 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/1alp2rkcw96wmxwt?svg=true)](https://ci.appveyor.com/project/marekchen/pets-egg)
 [![Build Status](https://travis-ci.org/PetsEden/pets-egg.svg?branch=master)](https://travis-ci.org/PetsEden/pets-egg)
+[![codecov](https://codecov.io/gh/PetsEden/pets-egg/branch/master/graph/badge.svg)](https://codecov.io/gh/PetsEden/pets-egg)
 [![CircleCI](https://circleci.com/gh/PetsEden/pets-egg.svg?style=svg)](https://circleci.com/gh/PetsEden/pets-egg)
 
 ## QuickStart
